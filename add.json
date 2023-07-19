@@ -1,0 +1,46 @@
+{
+  "applicant": {
+    "first_name": "Shree",
+    "last_name": "Valmik",
+    "date_of_birth": "1985-07-15",
+    "social_security_number": "123-45-6789",
+    "contact_information": {
+      "phone_number": "555-123-4567",
+      "email": "shree@example.com",
+      "address": "123 Main Street, City, State, ZIP"
+    }
+  },
+  "credit_score": 800,
+  "income": 60000,
+  "loan_amount_requested": 10500,
+  "current_liabilities": {
+    "credit_card_debt": 5000,
+    "mortgage": 10000
+  },
+  "application_status": "",
+  "employment": {
+    "employer_name": "tiks Company",
+    "employment_type": "Full-time",
+    "job_title": "Software Engineer",
+    "monthly_income": 5000,
+    "length_of_employment": "2 years"
+  },
+  "financial": {
+    "loan_purpose": "Home Improvement",
+    "current_assets": {
+      "savings": 20000,
+      "investments": 50000
+    },
+    "monthly_expenses": {
+      "rent": 1000,
+      "utilities": 200,
+      "loans": 500
+    }
+  },
+  "loan_terms": {
+    "loan_type": "Personal Loan",
+    "repayment_period": "3 years",
+    "interest_rate": 7.5,
+    "collateral": "None"
+  }
+}
